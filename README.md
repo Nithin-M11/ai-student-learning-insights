@@ -6,6 +6,20 @@ An AI-powered student performance analysis system that predicts future academic 
 
 [Open the Live Application](https://ai-student-learning-insights-ftdub3sdbhr59hepn9npdq.streamlit.app/)
 
+## 📸 Application Screenshots
+
+### 🏠 Main Dashboard
+
+![Main Dashboard](dashboard.png)
+
+### 🤖 AI Performance Prediction
+
+![AI Performance Prediction](student-report.png)
+
+### 🧠 Personalized Learning Insights
+
+![Personalized Learning Insights](learning-insights.png)
+
 ## 📌 Project Overview
 
 This project uses Machine Learning to analyze student academic and study-related data and provide meaningful insights about their performance.
